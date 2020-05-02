@@ -1,15 +1,15 @@
-This is the May 2nd 2020 version of the EdgeNet logo.
+This is the May 2nd 2020 version of the EdgeNet logos.
 
-There is a rectangular version with text:
+There is a rectangular logo including both logomark and logotype:
 
 <img src="edgenet_logo_w_text_100dpi.png" alt="100 DPI logo with text" height="100"/>
 
-And a square version without text:
+And a square logo consisting only of the logomark:
 
 <img src="edgenet_logo_no_text_100dpi.png" alt="100 DPI logo without text" height="100"/>
 
-The colors are black, white, and blue #5785DC. The font is [Ubuntu Bold 700](https://fonts.google.com/specimen/Ubuntu?sidebar.open&selection.family=Ubuntu:wght@700) in blue #3C6EDD.
+The logomark colors are black, white, and blue #5785DC. The logotype font is [Ubuntu Bold 700](https://fonts.google.com/specimen/Ubuntu?sidebar.open&selection.family=Ubuntu:wght@700) in blue #3C6EDD.
 
-The master file for creating the logo variants is an OmniGraffle file, though the SVG file should work just as well if you do not have the OmniGraffle application.
+The master file for creating the logos is an OmniGraffle file, though the SVG file should work just as well if you do not have the OmniGraffle application.
 
-Both versions of the logo are available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.
+Both logos are available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.

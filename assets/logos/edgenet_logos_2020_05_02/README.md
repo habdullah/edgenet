@@ -8,7 +8,7 @@ And a square logo consisting only of the logomark:
 
 <img src="edgenet_logo_no_text_100dpi.png" alt="100 DPI logo without text" height="100"/>
 
-The logomark colors are black, white, and blue #5785DC. The logotype font is [Ubuntu Bold 700](https://fonts.google.com/specimen/Ubuntu?sidebar.open&selection.family=Ubuntu:wght@700) in blue #3C6EDD.
+The logomark colors are black, white, and blue #5785DC. The logotype font is [Ubuntu Bold 700](https://fonts.google.com/specimen/Ubuntu?sidebar.open&selection.family=Ubuntu:wght@700) in blue #3C6EDD. These are the colors as specified in thee master file, though they may be rendered slightly differently.
 
 The master file for creating the logos is an OmniGraffle file, though the SVG files should work just as well if you do not have the OmniGraffle application.
 

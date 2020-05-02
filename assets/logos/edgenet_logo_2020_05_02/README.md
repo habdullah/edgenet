@@ -8,6 +8,6 @@ And a square version without text:
 
 <img src="edgenet_logo_no_text_100dpi.png" alt="100 DPI logo without text" height="100"/>
 
-The master file for creating the logo variants is an OmniGraffle file, though the SVG file should work just as well as a master if you do not have the OmniGraffle application.
+The master file for creating the logo variants is an OmniGraffle file, though the SVG file should work just as well if you do not have the OmniGraffle application.
 
 The logo is available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.

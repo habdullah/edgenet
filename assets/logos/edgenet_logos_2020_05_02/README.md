@@ -10,6 +10,6 @@ And a square logo consisting only of the logomark:
 
 The logomark colors are black, white, and blue #5785DC. The logotype font is [Ubuntu Bold 700](https://fonts.google.com/specimen/Ubuntu?sidebar.open&selection.family=Ubuntu:wght@700) in blue #3C6EDD.
 
-The master file for creating the logos is an OmniGraffle file, though the SVG file should work just as well if you do not have the OmniGraffle application.
+The master file for creating the logos is an OmniGraffle file, though the SVG files should work just as well if you do not have the OmniGraffle application.
 
 Both logos are available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.

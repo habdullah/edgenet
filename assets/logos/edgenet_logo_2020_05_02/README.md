@@ -10,4 +10,4 @@ And a square version without text:
 
 The master file for creating the logo variants is an OmniGraffle file, though the SVG file should work just as well if you do not have the OmniGraffle application.
 
-The logo is available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.
+Both versions of the logo are available here in 100, 300, and 600 DPI PNG and in PDF versions, all with transparent background.

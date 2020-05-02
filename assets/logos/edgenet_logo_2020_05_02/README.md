@@ -6,4 +6,4 @@ There is a version with text:
 
 And a version without text:
 
-![logo_no_text](edgenet_logo_No_text_100dpi.png "EdgeNet logo without text")
+![logo_no_text](edgenet_logo_no_text_100dpi.png "EdgeNet logo without text")

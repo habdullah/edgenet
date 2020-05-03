@@ -1,4 +1,4 @@
-<img src="/edgenet/assets/logos/edgenet_logos_2020_05_02/edgenet_logo_w_text_600dpi.png" width="200">
+<img src="/assets/logos/edgenet_logos_2020_05_02/edgenet_logo_w_text_600dpi.png" width="200">
 
 # Welcome to the EdgeNet project
 

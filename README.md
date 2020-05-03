@@ -1,4 +1,4 @@
-![](assets/logos/edgenet_logos_2020_05_02/edgenet_logo_no_text_75dpi_half_size.png)
+![](assets/logos/edgenet_logos_2020_05_02/edgenet_logo_no_text_75dpi_quarter_size.png)
 
 # Welcome to the EdgeNet project
 

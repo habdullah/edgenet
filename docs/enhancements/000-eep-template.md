@@ -1,69 +1,13 @@
 <!--
-**Note:** When your KEP is complete, all of these comment blocks should be removed.
+Template for an EdgeNet Enhancement Proposal (EEP)
 
-To get started with this template:
-
-- [ ] **Pick a hosting SIG.**
-  Make sure that the problem space is something the SIG is interested in taking
-  up.  KEPs should not be checked in without a sponsoring SIG.
-- [ ] **Create an issue in kubernetes/enhancements**
-  When filing an enhancement tracking issue, please ensure to complete all
-  fields in that template.  One of the fields asks for a link to the KEP.  You
-  can leave that blank until this KEP is filed, and then go back to the
-  enhancement and add the link.
-- [ ] **Make a copy of this template directory.**
-  Copy this template into the owning SIG's directory and name it
-  `NNNN-short-descriptive-title`, where `NNNN` is the issue number (with no
-  leading-zero padding) assigned to your enhancement above.
-- [ ] **Fill out as much of the kep.yaml file as you can.**
-  At minimum, you should fill in the "title", "authors", "owning-sig",
-  "status", and date-related fields.
-- [ ] **Fill out this file as best you can.**
-  At minimum, you should fill in the "Summary", and "Motivation" sections.
-  These should be easy if you've preflighted the idea of the KEP with the
-  appropriate SIG(s).
-- [ ] **Create a PR for this KEP.**
-  Assign it to people in the SIG that are sponsoring this process.
-- [ ] **Merge early and iterate.**
-  Avoid getting hung up on specific details and instead aim to get the goals of
-  the KEP clarified and merged quickly.  The best way to do this is to just
-  start with the high-level sections and fill out details incrementally in
-  subsequent PRs.
-
-Just because a KEP is merged does not mean it is complete or approved.  Any KEP
-marked as a `provisional` is a working document and subject to change.  You can
-denote sections that are under active debate as follows:
-
-```
-<<[UNRESOLVED optional short context or usernames ]>>
-Stuff that is being argued.
-<<[/UNRESOLVED]>>
-```
-
-When editing KEPS, aim for tightly-scoped, single-topic PRs to keep discussions
-focused.  If you disagree with what is already in a document, open a new PR
-with suggested changes.
-
-One KEP corresponds to one "feature" or "enhancement", for its whole lifecycle.
-You do not need a new KEP to move from beta to GA, for example.  If there are
-new details that belong in the KEP, edit the KEP.  Once a feature has become
-"implemented", major changes should get new KEPs.
-
-The canonical place for the latest set of instructions (and the likely source
-of this file) is [here](/keps/NNNN-kep-template/README.md).
-
-**Note:** Any PRs to move a KEP to `implementable` or significant changes once
-it is marked `implementable` must be approved by each of the KEP approvers.
-If any of those approvers is no longer appropriate than changes to that list
-should be approved by the remaining approvers and/or the owning SIG (or
-SIG Architecture for cross cutting KEPs).
+**Note:** When your EEP is complete, all of these comment blocks should be removed.
 -->
-# KEP-NNNN: Your short, descriptive title
+# EEP-NNN: Your short, descriptive title
 
 <!--
-This is the title of your KEP.  Keep it short, simple, and descriptive.  A good
-title can help communicate what the KEP is and should be considered as part of
-any review.
+This is the title of your EEP.  Keep it short, simple, and descriptive.  A good
+title can help communicate what the EEP is.
 -->
 
 <!--

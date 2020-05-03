@@ -1,4 +1,4 @@
-<img src="../tree/release-1.0/assets/logos/edgenet_logos_2020_05_02/edgenet_logo_w_text_100dpi.png" alt="100 DPI logo with text" height="200"/>
+<img src="../assets/logos/edgenet_logos_2020_05_02/edgenet_logo_w_text_100dpi.png" alt="100 DPI logo with text" height="200"/>
 
 # Welcome to the EdgeNet project
 

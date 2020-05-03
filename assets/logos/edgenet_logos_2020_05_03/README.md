@@ -1,4 +1,4 @@
-This is the May 3rd 2020 version of the EdgeNet logos.
+**This is the May 3rd 2020 version of the EdgeNet logos.**
 
 There is a rectangular logo including both logomark and logotype:
 

@@ -1,4 +1,8 @@
-This is the May 2nd 2020 version of the EdgeNet logos.
+**Please no longer use this version of the logo, and use the May 3rd version instead**
+
+The May 3rd version has a larger logotype in comparison with the logomark.
+
+**This is the May 2nd 2020 version of the EdgeNet logos.**
 
 There is a rectangular logo including both logomark and logotype:
 

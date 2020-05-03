@@ -2,7 +2,8 @@ This is the May 3rd 2020 version of the EdgeNet logos.
 
 There is a rectangular logo including both logomark and logotype:
 
-![](edgenet_logo_2020_05_03_w_text_300dpi_10pct.png)
+<img src="edgenet_logo_2020_05_03_w_text_075dpi.png" width="400"/>
+
 
 And a square logo consisting only of the logomark:
 

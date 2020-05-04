@@ -20,6 +20,5 @@ We are currently rolling out new code on a two week cycle. Take a look at our cu
 
 ## Repository layout
 
-This repository follows the [Standard Go Project Layout](https://github.com/golang-standards/project-layout) used
-by other Kubernetes-related projects, so if you are familiar with that, you will be able to navigate around this
-project easily.
+If you are familiar with the [Standard Go Project Layout](https://github.com/golang-standards/project-layout) used
+by other Kubernetes-related projects, you will be able to navigate around this project easily.

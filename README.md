@@ -3,7 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/EdgeNet-project/edgenet)](https://goreportcard.com/report/github.com/EdgeNet-project/edgenet)
 
 EdgeNet is Kubernetes adapted for the network edge. It allows you to deploy applications to hundreds of nodes 
-that are scattered across the internet, rather than in one or a small number of centralized datacenters.
+that are scattered across the internet, rather than to just one or a small number of centralized datacenters.
 
 The code that we are developing here is in production use in [the EdgeNet testbed](http://www.edge-net.org/),
 which is available to researchers worldwide to conduct experiments in distributed systems and internet

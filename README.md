@@ -1,6 +1,4 @@
-<img src="/assets/logos/edgenet_logos_2020_05_03/edgenet_logo_2020_05_03_w_text.svg" width="400">
-
-# Welcome to the EdgeNet project
+## <img src="/assets/logos/edgenet_logos_2020_05_03/edgenet_logo_2020_05_03_w_text.svg" alt="Welcome to EdgeNet" width="400">
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/EdgeNet-project/edgenet)](https://goreportcard.com/report/github.com/EdgeNet-project/edgenet)
 

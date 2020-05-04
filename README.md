@@ -8,16 +8,15 @@ that are scattered across the internet, rather than to just one or a small numbe
 The code that we are developing here is in production powering [the EdgeNet testbed](http://www.edge-net.org/),
 on which researchers worldwide conduct experiments in distributed systems and internet measurements.
 
-We have adopted a two-week sprint cycle for rolling out code and deploying it to the testbed. This is free,
-open-source software (FOSS), and **we welcome you as a contributor**, should you wish to help out.
+## Contributing
 
-## Project backlog and sprints
+We invite you to contribute to this free open-source software (FOSS) initiative.
 
-Our work is organized around the [project backlog](https://github.com/orgs/EdgeNet-project/projects/2). We
-invite you to take a look and see if there are issues on which you might be able to contribute.
+Please take a look at our [project backlog](https://github.com/orgs/EdgeNet-project/projects/2) to see if 
+there are issues that interest you. Or suggest your own.
 
-Each two-week sprint is organized as a [milestone](https://github.com/EdgeNet-project/edgenet/milestones): 
-you can take a look at the most recent one to see what we are working on now.
+We are currently rolling out new code on a two week cycle. Take a look at our current sprint in the list of
+[milestones](https://github.com/EdgeNet-project/edgenet/milestones) to see what we are working on now.
 
 ## Repository layout
 
